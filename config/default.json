@@ -1,0 +1,7 @@
+{
+  "name": "authProject",
+  "db": {
+    "address": "mongodb://127.0.0.1:27017/auth"
+  },
+  "jwt_key": "dfahwelmcnur5fytrd25yt8rexcbhjutre5s1cgtres1cgtrd"
+}
